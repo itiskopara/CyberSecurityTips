@@ -1,0 +1,77 @@
+
+
+
+
+indexbody {
+    background-image: url("cybersecurity lock resized.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+malbody {
+    background-image: url("Linux-malware.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+h2 {
+	font-family: arial, "Times New Roman";
+	font-weight: 100;
+	font-color: white;
+  font-size: 35px;
+}
+
+h3 {
+	font-family: arial, "Times New Roman";
+	font-weight: 100;
+	font-color: white;
+  font-size: 30px;
+
+}
+
+h4 {
+	font-family: arial, "Times New Roman";
+	font-weight: 100;
+	font-color: white;
+  font-size: 25px;
+
+}
+
+h5 {
+	font-family: arial, "Times New Roman";
+	font-weight: 100;
+	font-color: white;
+  font-size: 19px;
+
+}
+p{
+  font-family: arial, "Times New Roman";
+	text-align: justify;
+
+	line-height: 30px
+	font-weight: 50;
+	font-color: white;
+
+}
+
+ul{
+  font-family: arial, "Times New Roman";
+	text-align: justify;
+
+	line-height: 30px
+	font-weight: 50;
+	font-color: white;
+
+}
+
+ol{
+  font-family: arial, "Times New Roman";
+	text-align: justify;
+
+	line-height: 30px
+	font-weight: 50;
+	font-color: white;
+
+}
